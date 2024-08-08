@@ -1,0 +1,11 @@
+{
+  "dialect": "postgres",
+  "host": "localhost",
+  "username": "postgres",
+  "password": "9981",
+  "database": "fly",
+  "define": {
+    "timestamps": true,
+    "underscored": true
+  }
+}

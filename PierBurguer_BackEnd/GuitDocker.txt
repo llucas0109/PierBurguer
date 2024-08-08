@@ -1,0 +1,7 @@
+Para criar um conteiner docker #$ docker run --name mongo -p 27017:27017 -d -t mongo
+
+--name = Um nome qual
+-p 27017:27017 = Porta do Computador e A porta do conteiner
+-d = vai rodar em segundo plano
+-t = Imagem que vai procurar no docker
+
